@@ -1,0 +1,15 @@
+{
+  "name": "MyViewCounts",
+  "version": "1.0.0",
+  "description": "A counter for views on Replit Posts. Embeddable in Markdown.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["nodejs", "markdown", "viewcounter", "svg"],
+  "author": "RayhanADev",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
