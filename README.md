@@ -19,6 +19,7 @@ To delete your counter, you can navigate to:
 and then using a password that is hashed and encrypted, be the only one able to delete your counter. No overwrites, only you can use your counter!
 
 There even is this nice 404 counter for broken links!
+<br>
 ![viewcounter](https://myviewcounts.rayhanadev.repl.co/viewcount/alkdjfasldjfkasldfjk.svg)
 
 
