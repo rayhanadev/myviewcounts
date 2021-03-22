@@ -23,4 +23,4 @@ There even is this nice 404 counter for broken links!
 ![viewcounter](https://myviewcounts.rayhanadev.repl.co/viewcount/alkdjfasldjfkasldfjk.svg)
 
 
-So why don't you try it! Make a view counter and add them to your posts, or even share your view counter below in the comments! Have fun :D
+So why don't you try it! Make a view counter and add them to your posts. Have fun :D
