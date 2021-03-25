@@ -11,7 +11,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 app.get('/', (req, res) => {
-	res.sendFile(__dirname + 'views/index.html');
+	res.send(__dirname + 'views/index.html');
 });
 
 app.post('/create', (req, res) => {
