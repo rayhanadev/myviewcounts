@@ -2,7 +2,7 @@
 ## Custom View Counters for Markdown
 
 With MyViewCounts you can embed a view counter into your posts in a quick and easy setup, and just one line:
-`https://myviewcounts.rayhanadev.repl.co/viewcount/[YourViewCounter].svg`
+`https://myviewcounts.rayhanadev.repl.co/viewcount/[YourViewCounter].png`
 
 This is the easiest (and most elegant) way to set up your view counter. To start, go to the site:
 
