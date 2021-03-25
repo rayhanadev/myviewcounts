@@ -20,7 +20,7 @@ and then using a password that is hashed and encrypted, be the only one able to 
 
 There even is this nice 404 counter for broken links!
 <br>
-![viewcounter](https://myviewcounts.rayhanadev.repl.co/viewcount/alkdjfasldjfkasldfjk.svg)
+![viewcounter](https://myviewcounts.rayhanadev.repl.co/viewcount/alkdjfasldjfkasldfjk.png)
 
 
 So why don't you try it! Make a view counter and add them to your posts. Have fun :D
